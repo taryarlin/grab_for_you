@@ -7,7 +7,7 @@ require('functions.php');
 
 require('router.php');
 
-print_r('someting new');
+print_r('someting newasdfasdfasdfasd');
 
 // require('Database.php');
 

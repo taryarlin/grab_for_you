@@ -11,7 +11,7 @@ $uri = parse_url($_SERVER['REQUEST_URI'])['path'];
 // } elseif($uri === '/contact') {
 //     require('controllers/contact.php');
 // }
-
+// asdfasdfasfdasdfasdf
 // 404
 
 $routes = [
