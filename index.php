@@ -7,8 +7,8 @@ require('functions.php');
 
 require('router.php');
 
-echo "Changed from main - something changes";
-
+echo "Changed from main - saaaaaaaaa";
+a
 // require('Database.php');
 
 // $config = require('config.php');
