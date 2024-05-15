@@ -7,6 +7,8 @@ require('functions.php');
 
 require('router.php');
 
+echo "Hello world";
+
 // require('Database.php');
 
 // $config = require('config.php');
