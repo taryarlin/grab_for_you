@@ -1,10 +1,10 @@
 <?php
 
-function dd($param)
+function dd($params)
 {
     echo '<pre>';
 
-    var_dump($param);
+    var_dump($params);
 
     echo '</pre>';
 
